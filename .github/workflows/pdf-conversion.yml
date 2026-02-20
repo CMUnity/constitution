@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'CMUnity_Constitution.md'
+  workflow_dispatch:
 
 jobs:
   convert_to_pdf:
