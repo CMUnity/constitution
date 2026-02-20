@@ -11,6 +11,8 @@ on:
 jobs:
   convert_to_pdf:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
