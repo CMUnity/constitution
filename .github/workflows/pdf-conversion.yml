@@ -22,7 +22,18 @@ jobs:
         with:
           input_path: CMUnity_Constitution.md
           output_dir: pdfs
-          # build_html is true by default, which is fine for simple MD
+
+      - name: Verify PDF Generation
+        run: |
+          echo "Checking generated PDF..."
+          ls -lh pdfs/
+          if [ -f "pdfs/CMUnity_Constitution.pdf" ]; then
+            echo "PDF exists. File size: $(ls -lh pdfs/CMUnity_Constitution.pdf | awk '{print $5}')"
+            echo "Modification time: $(stat -c %y pdfs/CMUnity_Constitution.pdf)"
+          else
+            echo "ERROR: PDF was not generated!"
+            exit 1
+          fi
 
       - name: Commit and Push PDF
         uses: stefanzweifel/git-auto-commit-action@v5
