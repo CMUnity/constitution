@@ -20,10 +20,11 @@ jobs:
           ref: main
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Setup pandoc
+      - name: Setup pandoc and weasyprint
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc
+          sudo apt-get install -y pandoc python3 python3-pip
+          pip3 install weasyprint
 
       - name: Debug - Verify Source Content
         run: |
@@ -41,7 +42,7 @@ jobs:
 
       - name: Convert Markdown to PDF
         run: |
-          pandoc CMUnity_Constitution.md -o pdfs/CMUnity_Constitution.pdf --pdf-engine=xelatex -V geometry:margin=1in
+          pandoc CMUnity_Constitution.md -o pdfs/CMUnity_Constitution.pdf --pdf-engine=weasyprint -V geometry:margin=1in --metadata title="CMUnity Constitution"
 
       - name: Verify PDF Generation
         run: |
