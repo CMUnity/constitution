@@ -14,8 +14,16 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+      - name: Debug - Verify Source Content
+        run: |
+          echo "Head commit: $(git rev-parse HEAD)"
+          echo "First 20 lines of CMUnity_Constitution.md:"
+          head -n 20 CMUnity_Constitution.md
+
+      - name: Cleanup Old PDFs
+        run: |
+          rm -rf pdfs/*.pdf
+          mkdir -p pdfs
 
       - name: Convert Markdown to PDF
         uses: baileyjm02/markdown-to-pdf@v1
@@ -28,8 +36,10 @@ jobs:
           echo "Checking generated PDF..."
           ls -lh pdfs/
           if [ -f "pdfs/CMUnity_Constitution.pdf" ]; then
-            echo "PDF exists. File size: $(ls -lh pdfs/CMUnity_Constitution.pdf | awk '{print $5}')"
+            echo "PDF exists."
             echo "Modification time: $(stat -c %y pdfs/CMUnity_Constitution.pdf)"
+            git status
+            git diff --stat
           else
             echo "ERROR: PDF was not generated!"
             exit 1
@@ -42,4 +52,3 @@ jobs:
           file_pattern: 'pdfs/*.pdf'
           branch: main
           skip_dirty_check: false
-          # The permission block above 'contents: write' is still required
