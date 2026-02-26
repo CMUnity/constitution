@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'CMUnity_Constitution.md'
+      - "CMUnity_Constitution.md"
   workflow_dispatch:
 
 jobs:
@@ -14,6 +14,17 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup pandoc
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc
+
       - name: Debug - Verify Source Content
         run: |
           echo "Head commit: $(git rev-parse HEAD)"
@@ -22,14 +33,12 @@ jobs:
 
       - name: Cleanup Old PDFs
         run: |
-          rm -rf pdfs/*.pdf
+          rm -rf pdfs/*.pdf 2>/dev/null || true
           mkdir -p pdfs
 
       - name: Convert Markdown to PDF
-        uses: baileyjm02/markdown-to-pdf@v1
-        with:
-          input_path: CMUnity_Constitution.md
-          output_dir: pdfs
+        run: |
+          pandoc CMUnity_Constitution.md -o pdfs/CMUnity_Constitution.pdf --pdf-engine=xelatex -V geometry:margin=1in
 
       - name: Verify PDF Generation
         run: |
@@ -38,8 +47,6 @@ jobs:
           if [ -f "pdfs/CMUnity_Constitution.pdf" ]; then
             echo "PDF exists."
             echo "Modification time: $(stat -c %y pdfs/CMUnity_Constitution.pdf)"
-            git status
-            git diff --stat
           else
             echo "ERROR: PDF was not generated!"
             exit 1
@@ -49,6 +56,8 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "dist: update constitution PDF [skip ci]"
-          file_pattern: 'pdfs/*.pdf'
+          file_pattern: "pdfs/*.pdf"
           branch: main
           skip_dirty_check: false
+          commit_user_name: github-actions[bot]
+          commit_user_email: github-actions[bot]@users.noreply.github.com
