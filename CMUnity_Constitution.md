@@ -42,7 +42,7 @@ CMUnity will not discriminate on the basis of race, color, national origin, reli
 ### Section 4: Recruitment and Voting Rights
 
 1. **Recruitment:** Recruitment for new members shall be open year-round, with primary recruitment drives occurring at the beginning of the Fall and Spring semesters.
-2. **Voting Rights:** Only student members who are active and in good standing (per Article III, Section 2) are eligible to vote. Affiliate members (faculty, staff, alumni) may participate in discussions but may not vote.
+2. **Voting Rights:** Only active members in good standing (per Article III, Section 2) are eligible to vote. Affiliate members (faculty and staff) may participate in discussions but may not vote. Alumni members may vote.
 
 ### Section 5: Reinstatement
 
@@ -83,12 +83,11 @@ Officers shall serve for one academic year. Elections will be held in the Spring
 
 ### Section 1: Procedure
 
-1. **Timing and Notification:** Elections shall be held annually during the Spring semester, typically at the second-to-last general meeting. Active members must be notified of the election date, time, and location at least two (2) weeks in advance via email. Additional notification methods may include posting flyers or posters on campus and making verbal announcements at meetings. The notification period shall remain open for a minimum of two (2) weeks prior to the election.
-2. **Nominations:** Any active student member may nominate themselves or another active student member for office. Nominations will be accepted starting one meeting prior to the elections and up until the start of the voting process.
-3. **Order of Elections and Speeches:** Candidates shall be elected in the following order: God-Emperor, Vice President, Secretary, Treasurer, Chief Operating Officer (COO), Chief Technology Officer (CTO), Chief Envoy of Civic Pluralism, and Chief Envoy of Spiritual Solidarity. Each candidate shall be given the opportunity to make a brief statement (no more than 3 minutes) before voting begins for their position.
-4. **Voting Process:** Officers are elected by a simple majority vote (51%) of active student members present at the election meeting. A quorum of at least 50% of the total active student membership must be present for elections to be valid.
-5. **Tie-Breaking and Run-offs:** In the event of a tie, a run-off election between the tied candidates will be held immediately. If several candidates are running and none receive 51% of the vote, the top two candidates will proceed to a run-off.
-6. **Absentee Ballots:** Absentee or proxy ballots are not permitted; members must be present to vote.
+1. **Timing and Notification:** Elections shall be held annually during the Spring semester, typically at the second-to-last general meeting. Active members must be notified of the election date, time, and location at least two (2) weeks in advance. Notifications may include email, flyers, posters, verbal announcements at meetings, social media posts, or updates to the CMUnity website.
+2. **Nominations:** Any active member may nominate themselves or another active member for office. Nominations will be accepted starting one meeting prior to the elections and up until the start of the voting process.
+3. **Voting Process:** Officers are elected by a simple majority vote (51%) of active members present at the election meeting. A quorum of at least 50% of the total active student membership must be present for elections to be valid. Candidates shall be elected in the following order: God-Emperor, Vice President, Secretary, Treasurer, Chief Operating Officer (COO), Chief Technology Officer (CTO), Chief Envoy of Civic Pluralism, and Chief Envoy of Spiritual Solidarity. Each candidate shall be given the opportunity to make a brief statement (no more than 3 minutes) before voting begins for their position.
+4. **Tie-Breaking and Run-offs:** In the event of a tie, a run-off election between the tied candidates will be held immediately. If several candidates are running and none receive 51% of the vote, the top two candidates will proceed to a run-off.
+5. **Absentee Ballots:** Absentee or proxy ballots are not permitted; members must be present to vote.
 
 ### Section 2: Voting
 
@@ -118,11 +117,10 @@ The process for appeals can be initiated by either a member in good standing or 
 
 Officers may be re-elected to the same or a different position for a maximum of two (2) consecutive one-year terms.
 
-### Section 5: Vacancies
+### Section 4: Vacancies
 
 1. **God-Emperor Vacancy:** In the event that the office of God-Emperor is vacated, the Vice-President shall assume the office of God-Emperor for the remainder of the term.
 2. **Other Vacancies:** For any other Executive Board vacancy, the God-Emperor may appoint an interim officer with the approval of a majority of the remaining Executive Board. A special election shall be held at the next general body meeting to permanently fill the position.
-
 
 ## Article VII: Meetings
 
@@ -184,10 +182,6 @@ Amendments to this constitution may be proposed by any active member at a genera
 ### Section 3: Effective Date
 
 Amendments shall take effect immediately upon ratification unless a different effective date is specified in the amendment itself.
-
-### Section 4: Voting Eligibility for Amendments
-
-Only active student members in good standing (per Article III, Section 2) are eligible to vote on amendments.
 
 ## Article XI: Ratification
 
