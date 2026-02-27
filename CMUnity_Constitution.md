@@ -83,11 +83,12 @@ Officers shall serve for one academic year. Elections will be held in the Spring
 
 ### Section 1: Procedure
 
-1. **Timing and Notification:** Elections shall be held annually during the Spring semester, typically at the second-to-last general meeting. Active members must be notified of the election date, time, and location at least two (2) weeks in advance via email.
+1. **Timing and Notification:** Elections shall be held annually during the Spring semester, typically at the second-to-last general meeting. Active members must be notified of the election date, time, and location at least two (2) weeks in advance via email. Additional notification methods may include posting flyers or posters on campus and making verbal announcements at meetings. The notification period shall remain open for a minimum of two (2) weeks prior to the election.
 2. **Nominations:** Any active student member may nominate themselves or another active student member for office. Nominations will be accepted starting one meeting prior to the elections and up until the start of the voting process.
-3. **Voting Process:** Officers are elected by a simple majority vote (51%) of active student members present at the election meeting. A quorum of at least 50% of the total active student membership must be present for elections to be valid.
-4. **Tie-Breaking and Run-offs:** In the event of a tie, a run-off election between the tied candidates will be held immediately. If several candidates are running and none receive 51% of the vote, the top two candidates will proceed to a run-off.
-5. **Absentee Ballots:** Absentee or proxy ballots are not permitted; members must be present to vote.
+3. **Order of Elections and Speeches:** Candidates shall be elected in the following order: God-Emperor, Vice President, Secretary, Treasurer, Chief Operating Officer (COO), Chief Technology Officer (CTO), Chief Envoy of Civic Pluralism, and Chief Envoy of Spiritual Solidarity. Each candidate shall be given the opportunity to make a brief statement (no more than 3 minutes) before voting begins for their position.
+4. **Voting Process:** Officers are elected by a simple majority vote (51%) of active student members present at the election meeting. A quorum of at least 50% of the total active student membership must be present for elections to be valid.
+5. **Tie-Breaking and Run-offs:** In the event of a tie, a run-off election between the tied candidates will be held immediately. If several candidates are running and none receive 51% of the vote, the top two candidates will proceed to a run-off.
+6. **Absentee Ballots:** Absentee or proxy ballots are not permitted; members must be present to vote.
 
 ### Section 2: Voting
 
@@ -111,19 +112,24 @@ Officers or members may be removed for conduct that blatantly contradicts the co
 
 ### Section 3: Appeals
 
-The process for appeals can be initiated by either a member in good standing or by the individual removed with a sponsor who is a member in good standing. 4. **Re-election:** Officers may be re-elected to the same or a different position for a maximum of two (2) consecutive one-year terms.
+The process for appeals can be initiated by either a member in good standing or by the individual removed with a sponsor who is a member in good standing. Appeals must be filed within five (5) business days of the removal decision. The appeal shall be heard by the Executive Board within ten (10) business days of receipt. The Board's decision on the appeal shall be final and binding.
 
-### Section 4: Vacancies
+### Section 4: Re-election
+
+Officers may be re-elected to the same or a different position for a maximum of two (2) consecutive one-year terms.
+
+### Section 5: Vacancies
 
 1. **God-Emperor Vacancy:** In the event that the office of God-Emperor is vacated, the Vice-President shall assume the office of God-Emperor for the remainder of the term.
 2. **Other Vacancies:** For any other Executive Board vacancy, the God-Emperor may appoint an interim officer with the approval of a majority of the remaining Executive Board. A special election shall be held at the next general body meeting to permanently fill the position.
+
 
 ## Article VII: Meetings
 
 ### Section 1: Types of Meetings
 
-1. **General Body Meetings:** Held at least monthly during the academic year to facilitate discussions and community events. All members are invited to attend.
-2. **Executive Board Meetings:** Held at least bi-weekly to manage organization operations. Only officers are required to attend, though they may invite other members.
+1. **General Body Meetings:** Held at least monthly during the academic year to facilitate discussions and community events. All members are invited to attend. Only active student members in good standing are eligible to vote at general body meetings.
+2. **Executive Board Meetings:** Held at least bi-weekly to manage organization operations. Only officers are required to attend, though they may invite other members. Only officers with voting rights (per Article IV, Section 3) are eligible to vote at these meetings.
 
 ### Section 2: Calling Meetings and Notice
 
@@ -174,6 +180,14 @@ Amendments to this constitution may be proposed by any active member at a genera
 
 1. Proposed amendments must be presented at least one meeting prior to voting.
 2. Ratification requires a two-thirds (2/3) vote of active members present.
+
+### Section 3: Effective Date
+
+Amendments shall take effect immediately upon ratification unless a different effective date is specified in the amendment itself.
+
+### Section 4: Voting Eligibility for Amendments
+
+Only active student members in good standing (per Article III, Section 2) are eligible to vote on amendments.
 
 ## Article XI: Ratification
 
