@@ -57,6 +57,7 @@ jobs:
           fi
 
       - name: Commit and Push PDF
+        id: commit_pdf
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "dist: update constitution PDF [skip ci]"
@@ -65,3 +66,17 @@ jobs:
           skip_dirty_check: false
           commit_user_name: github-actions[bot]
           commit_user_email: github-actions[bot]@users.noreply.github.com
+
+      # Tell the website repo to pull the freshly-built PDF.
+      # Skips silently until SITE_DISPATCH_TOKEN is configured, so this
+      # never breaks PDF generation.
+      - name: Notify cm-unity-site to sync
+        if: steps.commit_pdf.outputs.changes_detected == 'true' && env.SITE_DISPATCH_TOKEN != ''
+        env:
+          SITE_DISPATCH_TOKEN: ${{ secrets.SITE_DISPATCH_TOKEN }}
+        run: |
+          curl -fsSL -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $SITE_DISPATCH_TOKEN" \
+            https://api.github.com/repos/RecursiveFunctions/cm-unity-site/dispatches \
+            -d '{"event_type":"constitution-updated"}'
