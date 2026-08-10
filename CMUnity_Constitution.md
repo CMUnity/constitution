@@ -37,7 +37,7 @@ An active member is defined as an individual who:
 
 ### Section 3: Non-Discrimination
 
-CMUnity will not discriminate on the basis of race, color, national origin, religion, sex, gender identity, pregnancy, disability, age, ancestry, veteran status, genetic information, or sexual orientation. We are committed to ensuring the safety and respect of all members of the Carnegie Mellon community. CMUnity is committed to abiding by the [CMU Statement of Assurance](http://www.cmu.edu/policies/documents/SoA.html).
+CMUnity will not discriminate on the basis of race, color, national origin, religion, sex, gender identity, pregnancy, disability, age, ancestry, veteran status, genetic information, or sexual orientation. We are committed to ensuring the safety and respect of all members of the Carnegie Mellon community. **Harassment, retaliation, or any behavior that makes others feel unsafe, is not tolerated.** CMUnity is committed to abiding by the [CMU Statement of Assurance](http://www.cmu.edu/policies/documents/SoA.html).
 
 ### Section 4: Recruitment and Voting Rights
 
@@ -56,26 +56,34 @@ Hazing will not be used as a condition of membership in this organization. The o
 
 ### Section 1: Executive Board
 
-The Executive Board shall consist of the God-Emperor, Vice President, Secretary, Treasurer, Chief Operating Officer (COO), Chief Technology Officer (CTO), Chief Envoy of Civic Pluralism, and Chief Envoy of Spiritual Solidarity.
+The Executive Board shall consist of the President, Executive Vice President, Secretary, Treasurer, Chief Technology Officer (CTO), Chief Envoy of Civic Pluralism, Chief Envoy of Spiritual Solidarity, and Chief Envoy of Cultural Convergence.
 
 ### Section 2: Duties
 
-1. **God-Emperor:** Presides over meetings, represents the organization to the University and public, and oversees the general direction of the club to ensure fidelity to its principles.
-2. **Vice-President:** Assists the God-Emperor, presides in their absence, and leads efforts specifically focused on community-building and "clique-breaking" initiatives.
+1. **President:** Presides over meetings and represents the organization to the University. The President executes the strategic will of the Executive Board and holds no unilateral power to dissolve the organization, terminate membership, or compel executive resignations.
+2. **Executive Vice President:** Assists the President and presides in their absence. In the event of a documented conflict of interest involving the President, the EVP shall assume presiding duties over relevant administrative inquiries.
 3. **Secretary:** Maintains records of meetings (minutes), manages membership lists, and coordinates communication, ensuring transparency in all discussions.
 4. **Treasurer:** Manages finances, keeps accurate accounts, and coordinates funding for events.
-5. **Chief Operating Officer (COO):** Responsible for large-scale logistics, campus-wide community integration, and coordinating complex inter-group community-building events.
-6. **Chief Technology Officer (CTO):** Responsible for digital infrastructure and maintaining platforms for nuanced dialogue. The CTO is specifically charged with managing the organization's website and may delegate technical tasks to trustworthy assistants as they see fit.
-7. **Chief Envoy of Civic Pluralism:** Responsible for leading bipartisan initiatives, facilitating cross-partisan dialogue, and bridging political divides within the campus community.
-8. **Chief Envoy of Spiritual Solidarity:** Responsible for leading interfaith initiatives, promoting religious pluralism, and building multi-faith community solidarity.
+5. **Chief Technology Officer (CTO):** Responsible for digital infrastructure and maintaining platforms for nuanced dialogue. The CTO is specifically charged with managing the organization's website and may delegate technical tasks to trustworthy assistants as they see fit.
+6. **Chief Envoy of Civic Pluralism:** Responsible for leading bipartisan initiatives, facilitating cross-partisan dialogue, and bridging political divides within the campus community.
+7. **Chief Envoy of Spiritual Solidarity:** Responsible for leading interfaith initiatives, promoting religious pluralism, and building multi-faith community solidarity.
+8. **Chief Envoy of Cultural Convergence:** Responsible for leading initiatives that bridge cultural divides, celebrating the diverse backgrounds of the university community, and promoting cross-cultural understanding.
 
-### Section 3: Eligibility and Restrictions
+### Section 3: Officer Conduct & Communication
+
+To ensure a safe professional environment, the following protocols are mandated:
+
+1. **Professional Boundaries:** Executive communication regarding organizational business must occur in official group channels (e.g., Exec Chat) or scheduled meetings.
+2. **Conflict Mediation:** Any interpersonal dispute that impacts organizational operations must be referred to the Faculty Advisor for mediation before any executive action is proposed.
+3. **No-Contact Mandate:** The Executive Board reserves the right to mandate professional-only communication between officers to prevent harassment or retaliation.
+
+### Section 4: Eligibility and Restrictions
 
 1. **Eligibility:** To be eligible for office, a member must be a currently registered Carnegie Mellon student.
 2. **Concurrent Positions:** No officer may hold more than one position on the Executive Board concurrently, unless a position becomes vacant and no other active member is available to fill it, in which case the Executive Board may authorize a temporary dual-role.
-3. **Officer Voting:** All officers have full voting rights on the Executive Board. However, in general body meetings, the God-Emperor shall only vote in the event of a tie.
+3. **Officer Voting:** All officers have full voting rights on the Executive Board. However, in general body meetings, the President shall only vote in the event of a tie.
 
-### Section 4: Terms of Office
+### Section 5: Terms of Office
 
 Officers shall serve for one academic year. Elections will be held in the Spring semester for the following year.
 
@@ -85,15 +93,19 @@ Officers shall serve for one academic year. Elections will be held in the Spring
 
 1. **Timing and Notification:** Elections shall be held annually during the Spring semester, typically at the second-to-last general meeting. Active members must be notified of the election date, time, and location at least two (2) weeks in advance. Notifications may include email, flyers, posters, verbal announcements at meetings, social media posts, or updates to the CMUnity website.
 2. **Nominations:** Any active member may nominate themselves or another active member for office. Nominations will be accepted starting one meeting prior to the elections and up until the start of the voting process.
-3. **Voting Process:** Officers are elected by a simple majority vote (51%) of active members present at the election meeting. A quorum of at least 50% of the total active student membership must be present for elections to be valid. Candidates shall be elected in the following order: God-Emperor, Vice President, Secretary, Treasurer, Chief Operating Officer (COO), Chief Technology Officer (CTO), Chief Envoy of Civic Pluralism, and Chief Envoy of Spiritual Solidarity. Each candidate shall be given the opportunity to make a brief statement (no more than 3 minutes) before voting begins for their position.
+3. **Voting Process:** Officers are elected by a simple majority vote (51%) of active members present at the election meeting. A quorum of at least 50% of the total active student membership must be present for elections to be valid. Candidates shall be elected in the following order: President, Executive Vice President, Secretary, Treasurer, Chief Technology Officer (CTO), Chief Envoy of Civic Pluralism, Chief Envoy of Spiritual Solidarity, and Chief Envoy of Cultural Convergence. Each candidate shall be given the opportunity to make a brief statement (no more than 3 minutes) before voting begins for their position.
 4. **Tie-Breaking and Run-offs:** In the event of a tie, a run-off election between the tied candidates will be held immediately. If several candidates are running and none receive 51% of the vote, the top two candidates will proceed to a run-off.
 5. **Absentee Ballots:** Absentee or proxy ballots are not permitted; members must be present to vote.
 
-### Section 2: Voting
+### Section 2: Formal Censure
+
+The Executive Board may, by a two-thirds (2/3) supermajority vote, issue a **Formal Letter of Censure** to an officer. This serves as an official reprimand and a permanent record of misconduct without requiring removal from office.
+
+### Section 3: Voting
 
 Voting shall be conducted by secret ballot to ensure fairness.
 
-### Section 3: Transition
+### Section 4: Transition
 
 The transition from old officers to new officers will take place during the final meeting of the Spring semester. Newly elected officers shall officially assume their positions at the conclusion of this meeting.
 
@@ -117,22 +129,22 @@ The process for appeals can be initiated by either a member in good standing or 
 
 Officers may be re-elected to the same or a different position for a maximum of two (2) consecutive one-year terms.
 
-### Section 4: Vacancies
+### Section 5: Vacancies
 
-1. **God-Emperor Vacancy:** In the event that the office of God-Emperor is vacated, the Vice-President shall assume the office of God-Emperor for the remainder of the term.
-2. **Other Vacancies:** For any other Executive Board vacancy, the God-Emperor may appoint an interim officer with the approval of a majority of the remaining Executive Board. A special election shall be held at the next general body meeting to permanently fill the position.
+1. **President Vacancy:** In the event that the office of President is vacated, the Executive Vice President shall assume the office of President for the remainder of the term.
+2. **Other Vacancies:** For any other Executive Board vacancy, the President may appoint an interim officer with the approval of a majority of the remaining Executive Board. A special election shall be held at the next general body meeting to permanently fill the position.
 
 ## Article VII: Meetings
 
 ### Section 1: Types of Meetings
 
 1. **General Body Meetings:** Held at least monthly during the academic year to facilitate discussions and community events. All members are invited to attend. Only active student members in good standing are eligible to vote at general body meetings.
-2. **Executive Board Meetings:** Held at least bi-weekly to manage organization operations. Only officers are required to attend, though they may invite other members. Only officers with voting rights (per Article IV, Section 3) are eligible to vote at these meetings.
+2. **Executive Board Meetings:** Held at least bi-weekly to manage organization operations. Only officers are required to attend, though they may invite other members. Only officers with voting rights (per Article IV, Section 4) are eligible to vote at these meetings.
 
 ### Section 2: Calling Meetings and Notice
 
-1. **Regular Meetings:** The God-Emperor or a majority of the Executive Board may call a general body meeting with at least one week's notice.
-2. **Emergency Meetings:** The God-Emperor and Vice-President can call emergency meetings with a 24-hour notice to the active membership.
+1. **Regular Meetings:** The President or a majority of the Executive Board may call a general body meeting with at least one week's notice.
+2. **Emergency Meetings:** The President and Executive Vice President can call emergency meetings with a 24-hour notice to the active membership.
 
 ### Section 3: Quorum and Procedures
 
@@ -163,7 +175,7 @@ The advisor shall serve for an unspecified term at the pleasure of the Executive
 
 ### Section 2: Expenditures and Budget
 
-1. **Authorized Signatures:** All financial transactions require the authorization of the Treasurer and the God-Emperor.
+1. **Authorized Signatures:** All financial transactions require the authorization of the Treasurer and the President. In cases of a presidential conflict of interest, the EVP shall serve as the second signatory.
 2. **Budget Approval:** An annual budget must be prepared by the Treasurer and approved by a majority of the Executive Board at the start of each Fall semester.
 3. **Legal Limitation:** Organizational funds may be spent on items such as office supplies, events/activities, publicity, travel expenses, and conference fees, but will not be used for anything illegal under University, local, state, and federal laws.
 4. **Handover:** The outgoing Treasurer must ensure a full transfer of all financial records and account access to the incoming Treasurer during the transition period.
@@ -205,3 +217,4 @@ While all members of the Executive Board bear collective responsibility for the 
 
 1. **Constitution Created:** February 19th, 2026
 2. **Constitution Revised:** February 26th, 2026 (Compliance Update)
+3. **Constitution Revised:** August 10th, 2026 (Officer titles, conduct protocols, and censure)
